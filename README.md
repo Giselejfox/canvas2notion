@@ -16,6 +16,6 @@ Create the following variables in secretStuff.py and fill them by following the 
 In order to interact with the Notion API we have to request a token from them, like a password.
 
 ### Step 2.1
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![front page of notion's developer's site](./README_img/notion_site.png "Test")
 
 IN CONSTRUCTION
